@@ -4,3 +4,6 @@ initial
 
 other computer
 
+Privet
+
+Kak dela
